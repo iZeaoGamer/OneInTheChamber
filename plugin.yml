@@ -2,5 +2,5 @@ name: OITC
 version: 1.0.0
 api: 3.0.0-ALPHA6
 main: PocketEssential\OITQ\Main
-authors: [PocketEssential Team, Zeao]
+author: [PocketEssential Team, Zeao]
 description: OneInTheChamber Plugin for PocketMine (related servers).
